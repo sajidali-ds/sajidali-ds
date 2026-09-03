@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ali</h1>
 
 <h3 align="center">
-🚀 B.Tech CSE (Data Science) | Data Scientist | AI/ML Engineer | GenAI & Agentic AI
+Data Scientist | ML Engineer | GenAI & Agentic AI
 </h3>
 
 <p align="center">
@@ -22,42 +22,95 @@
 
 🌱 Started my journey with **Machine Learning**, then explored **NLP, Deep Learning, Transformers, Generative AI, LLMs and Agentic AI**.
 
-
 ### ⚡ What I'm Working With
 
-* 🤖 **Machine Learning & Deep Learning**
-* 📝 **NLP & Transformers**
-* 🧠 **Generative AI & Large Language Models**
-* 🔗 **RAG, Embeddings & Vector Databases**
-* 🕸️ **Agentic AI & Multi-Agent Systems**
-* ⚡ **LangChain, LangGraph & CrewAI**
-* 🔍 **LangSmith & LLM Evaluation**
-* 🎯 **LLM Fine-Tuning & Model Adaptation**
-* 🦙 **CodeLLaMA & Open-Source LLMs**
-* 🗄️ **SQL, SQLite & Graph Databases**
-* 🔵 **Cypher Query Language**
-* 🚀 **Model Deployment & MLOps**
-* 🐳 **Docker & CI/CD**
+- 🤖 **Machine Learning & Deep Learning**
+- 📝 **NLP & Transformers**
+- 🧠 **Generative AI & Large Language Models**
+- 🔗 **RAG, CRAG & Self-RAG**
+- 🕸️ **Agentic AI & Multi-Agent Systems**
+- ⚡ **LangChain, LangGraph & CrewAI**
+- 🔍 **LangSmith & LLM Evaluation**
+- 🎯 **LLM Fine-Tuning & Model Adaptation**
+- 🦙 **CodeLLaMA & Open-Source LLMs**
+- 🗄️ **SQL, SQLite & Graph Databases**
+- 🔵 **Cypher Query Language**
+- 🚀 **Model Deployment & MLOps**
+- 🐳 **Docker & CI/CD**
 
 💡 **My goal:** Build AI systems that don't just predict — **they understand, reason, retrieve, decide and act.**
 
 ---
 
-# ⚡ AI / ML Arsenal
+# 🌐 Connect With Me
 
 <p align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,mysql,sqlite,neo4j,docker,streamlit" />
+<a href="https://www.linkedin.com/in/sajid-ali-113a31318/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/sajidali-ds" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Sajid_codex/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/sajidalids" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50"/>
+</a>
+
 </p>
+
+<p align="center">
+  📧 <b>sajidalidatascience@gmail.com</b>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidali-ds&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidali-ds&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# ⚡ AI / ML Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,mysql,sqlite,neo4j,docker,streamlit" />
 
 </p>
 
 ### 📊 Data Science
 
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+`Python` `NumPy` `Pandas` `Statistics`
 
-`Statistics` `EDA` `Feature Engineering`
+`EDA` `Feature Engineering`
+
+`Matplotlib` `Seaborn`
 
 ### 🤖 Machine Learning
 
@@ -79,23 +132,21 @@
 
 `Transformers` `Hugging Face`
 
- `Embeddings`
-
 ### ✨ Generative AI
 
-`LLMs` `Prompt Engineering`
+`LLMs` `RAG` `CRAG` `Self-RAG`
 
-`LangChain` `RAG` `Embeddings`
+`Prompt Engineering` `LangChain`
 
-`Vector Databases` `Retrieval`
+`LLM Fine-Tuning` `LLM Evaluation`
 
-`Tool Calling` `Structured Output`
+`Hugging Face` `CodeLLaMA`
 
 ### 🕸️ Agentic AI
 
-`LangGraph` `CrewAI`
+`AI Agents` `LangGraph` `CrewAI`
 
-`AI Agents` `Multi-Agent Systems`
+`Multi-Agent Systems`
 
 `Agent Orchestration`
 
@@ -105,25 +156,13 @@
 
 `Human-in-the-Loop`
 
-### 🔬 LLM Engineering
-
-`LangSmith` `LLM Tracing`
-
-`LLM Evaluation`
-
-`Prompt Optimization`
-
-`Fine-Tuning`
-
-`CodeLLaMA`
+`LangSmith`
 
 ### 🗄️ Databases
 
 `SQL` `MySQL` `SQLite`
 
-`Graph Databases`
-
-`Cypher Query Language`
+`Neo4j` `Cypher`
 
 ### 🚀 MLOps & Deployment
 
@@ -137,58 +176,12 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🕸️ Agentic AI
-
-> **Building AI systems that can reason, use tools, maintain state and execute tasks.**
-
-🔹 AI Agents
-🔹 LangGraph Workflows
-🔹 Multi-Agent Systems
-🔹 Tool Calling
-🔹 Memory & State Management
-🔹 Agent Orchestration
-🔹 LangSmith Tracing & Evaluation
-
----
-### ✨ Generative AI
-
- 🔹 RAG (Retrieval-Augmented Generation)
-   ├── Corrective RAG (CRAG)
-   └── Self-RAG
-🔹 Prompt Engineering
-🔹 LLM Fine-Tuning
-🔹 LLM Evaluation
-🔹 LangChain
-🔹 Hugging Face
-🔹 CodeLLaMA
-
-# 🧠 From Data to Intelligence
-
-```text
-📊 DATA
-   ↓
-🤖 MACHINE LEARNING
-   ↓
-🧠 DEEP LEARNING
-   ↓
-📝 NLP & TRANSFORMERS
-   ↓
-✨ GENERATIVE AI
-   ↓
-🔗 RAG & LLMs
-   ↓
-🕸️ AGENTIC AI
-   ↓
-🚀 INTELLIGENT AI SYSTEMS
-```
-
-## 🌙 A Reminder
+# 🌙 A Reminder
 
 <p align="center">
 
-### ✨ وَالْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى
+### ✨ وَالْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ
+
 ### **"And the Hereafter is better for you than the first [life]."**
 
 ### — Qur'an 93:4
@@ -198,76 +191,5 @@
 ### 🚀 Keep Learning. Keep Building. Keep Moving Forward.
 
 </p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sajid-ali-113a31318/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-  
-
-<a href="https://github.com/sajidali-ds" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-  
-
-<a href="https://leetcode.com/u/Sajid_codex/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
-</a>
-
-  
-
-<a href="https://www.kaggle.com/sajidalids" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45"/>
-</a>
-
-</p>
-
-📫 **Email:** `sajidalidatascience@gmail.com`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajidali-ds&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidali-ds&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidali-ds&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidali-ds&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sajidali-ds&theme=tokyonight&margin-w=15&no-frame=true" />
-
-</p>
-
 
 
