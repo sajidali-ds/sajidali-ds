@@ -22,11 +22,9 @@
 
 🌱 Started my journey with **Machine Learning**, then explored **NLP, Deep Learning, Transformers, Generative AI, LLMs and Agentic AI**.
 
-🚀 Currently building intelligent systems using **LLMs, RAG, AI Agents and Multi-Agent Architectures**.
 
 ### ⚡ What I'm Working With
 
-* 📊 **Data Science & Machine Learning**
 * 🤖 **Machine Learning & Deep Learning**
 * 📝 **NLP & Transformers**
 * 🧠 **Generative AI & Large Language Models**
@@ -49,7 +47,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,sklearn,pandas,numpy,git,github,linux,docker,mysql,flask,fastapi,streamlit,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,mysql,sqlite,neo4j,docker,streamlit" />
+</p>
 
 </p>
 
@@ -58,8 +58,6 @@
 `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 `Statistics` `EDA` `Feature Engineering`
-
-`Data Preprocessing` `Data Visualization`
 
 ### 🤖 Machine Learning
 
@@ -81,7 +79,7 @@
 
 `Transformers` `Hugging Face`
 
-`Text Classification` `Embeddings`
+ `Embeddings`
 
 ### ✨ Generative AI
 
@@ -119,8 +117,6 @@
 
 `CodeLLaMA`
 
-`Open-Source LLMs`
-
 ### 🗄️ Databases
 
 `SQL` `MySQL` `SQLite`
@@ -156,77 +152,22 @@
 🔹 LangSmith Tracing & Evaluation
 
 ---
+### ✨ Generative AI
 
-### 🧠 Generative AI & RAG
-
-> **Building LLM applications capable of retrieving knowledge and generating grounded responses.**
-
-🔹 Retrieval-Augmented Generation
-🔹 Document Question Answering
-🔹 Embedding Pipelines
-🔹 Vector Search
-🔹 Semantic Retrieval
-🔹 LLM Applications
+ 🔹 RAG (Retrieval-Augmented Generation)
+   ├── Corrective RAG (CRAG)
+   └── Self-RAG
 🔹 Prompt Engineering
-
----
-
-### 🎯 LLM Fine-Tuning
-
-> **Experimenting with adapting open-source LLMs for specialized tasks.**
-
-🔹 Fine-Tuning
+🔹 LLM Fine-Tuning
+🔹 LLM Evaluation
+🔹 LangChain
+🔹 Hugging Face
 🔹 CodeLLaMA
-🔹 Open-Source LLMs
-🔹 Dataset Preparation
-🔹 Model Evaluation
-🔹 Prompt vs Fine-Tuning Strategies
-
----
-
-# 🧩 What I Build
-
-```text
-                    👤 USER
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  AI APPLICATION │
-              └────────┬────────┘
-                       │
-                       ▼
-          ┌─────────────────────────┐
-          │       AI AGENT          │
-          │ LangGraph • CrewAI      │
-          └───────────┬─────────────┘
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-       🧠 LLM      🔍 RAG      🛠️ TOOLS
-          │           │           │
-          │      ┌────┴────┐      │
-          │      │Retrieval│      │
-          │      └────┬────┘      │
-          │           │           │
-          ▼           ▼           ▼
-       Reasoning   Knowledge     APIs
-          │           │           │
-          └───────────┼───────────┘
-                      ▼
-               ⚡ DECISION
-                      │
-                      ▼
-                  🚀 ACTION
-```
-
----
 
 # 🧠 From Data to Intelligence
 
 ```text
 📊 DATA
-   ↓
-🧮 DATA SCIENCE
    ↓
 🤖 MACHINE LEARNING
    ↓
