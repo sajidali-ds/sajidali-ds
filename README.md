@@ -18,9 +18,9 @@
 
 🎓 **B.Tech CSE (Data Science)** @ Jamia Millia Islamia
 
-💼 **Data Scientist | AI/ML Engineer in Progress**
+💼 **Machine Learning | Data Science | Aspiring AI Engineer**
 
-🌱 My learning journey started with **Data Science & Machine Learning**, followed by **Deep Learning, NLP, Transformers, Generative AI and Agentic AI**.
+🌱 Started my journey with **Machine Learning**, then explored **NLP, Deep Learning, Transformers, Generative AI, LLMs and Agentic AI**.
 
 🚀 Currently building intelligent systems using **LLMs, RAG, AI Agents and Multi-Agent Architectures**.
 
