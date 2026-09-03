@@ -38,36 +38,27 @@ Data Scientist | ML Engineer | GenAI & Agentic AI
 - 🚀 **Model Deployment & MLOps**
 - 🐳 **Docker & CI/CD**
 
-💡 **My goal:** Build AI systems that don't just predict — **they understand, reason, retrieve, decide and act.**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sajid-ali-113a31318/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/sajidali-ds" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Sajid_codex/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.kaggle.com/sajidalids" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sajid-ali-113a31318/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sajidali-ds" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sajid_codex/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/sajidalids" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50"/>
+  </a>
 </p>
 
 <p align="center">
@@ -75,7 +66,6 @@ Data Scientist | ML Engineer | GenAI & Agentic AI
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
