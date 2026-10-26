@@ -1,31 +1,117 @@
-# ⚡ AI / ML Tech Stack
+#  Hi, I'm Sajid Ali
+
+<h1 align="center">Hi , I'm Sajid Ali</h1>
+
+<h3 align="center">
+Data Scientist | ML Engineer | GenAI & Agentic AI
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,mysql,sqlite,neo4j,docker,streamlit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+NLP+%7C+Transformers;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+LangGraph+%7C+CrewAI;Building+Intelligent+AI+Systems+%F0%9F%A4%96%F0%9F%9A%80" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajidali-ds&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+##  About Me
+
+ **B.Tech CSE (Data Science)** @ Jamia Millia Islamia
+
+ **Machine Learning | Data Science | Aspiring AI Engineer**
+
+ Started my journey with **Machine Learning**, then explored **NLP, Deep Learning, Transformers, Generative AI, LLMs and Agentic AI**.
+
+### ⚡ What I'm Working With
+
+- 🤖 **Machine Learning & Deep Learning**
+- 📝 **NLP & Transformers**
+- 🧠 **Generative AI & Large Language Models**
+- 🔗 **RAG, CRAG & Self-RAG**
+- 🕸️ **Agentic AI & Multi-Agent Systems**
+- ⚡ **LangChain, LangGraph & CrewAI**
+- 🔍 **LangSmith & LLM Evaluation**
+- 🎯 **LLM Fine-Tuning & Model Adaptation**
+- 🦙 **CodeLLaMA & Open-Source LLMs**
+- 🗄️ **SQL, SQLite & Graph Databases**
+- 🔵 **Cypher Query Language**
+- 🚀 **Model Deployment & MLOps**
+- 🐳 **Docker & CI/CD**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajid-ali-113a31318/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sajidali-ds" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sajid_codex/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/sajidalids" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="50" alt="Kaggle"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>sajidalidatascience@gmail.com</b>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidali-ds&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidali-ds&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## ⚡ AI / ML Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 📊 Data Science
 
-`Python` `NumPy` `Pandas`
+`Python` `NumPy`
 
-`Statistics` `EDA`
+`Pandas` `Statistics`
+
+`EDA`
 
 `Feature Engineering`
 
 `Matplotlib` `Seaborn`
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🤖 Machine Learning
 
-`Scikit-learn` `Regression`
+`Scikit-learn`
 
-`Classification` `Clustering`
+`Regression` `Classification`
+
+`Clustering`
 
 `Ensemble Learning`
 
@@ -34,24 +120,24 @@
 `Hyperparameter Tuning`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🧠 Deep Learning
 
 `PyTorch` `TensorFlow`
 
-`ANN` `CNN` `RNN`
+`ANN` `CNN`
 
-`LSTM` `GRU`
+`RNN` `LSTM` `GRU`
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 📝 NLP & Transformers
 
-`NLP` `TF-IDF` `Word2Vec`
+`NLP` `TF-IDF`
+
+`Word2Vec`
 
 `Transformers`
 
@@ -60,28 +146,34 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### ✨ Generative AI
 
-`LLMs` `RAG` `CRAG`
+`LLMs` `RAG`
 
-`Self-RAG` `Prompt Engineering`
+`CRAG` `Self-RAG`
 
-`LangChain` `CodeLLaMA`
+`Prompt Engineering`
+
+`LangChain`
+
+`CodeLLaMA`
 
 `LLM Fine-Tuning`
 
 `LLM Evaluation`
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🕸️ Agentic AI
 
 `AI Agents` `LangGraph`
 
-`CrewAI` `Multi-Agent Systems`
+`CrewAI`
+
+`Multi-Agent Systems`
 
 `Agent Orchestration`
 
@@ -89,29 +181,37 @@
 
 `Memory` `Tool Calling`
 
-`Human-in-the-Loop` `LangSmith`
+`Human-in-the-Loop`
+
+`LangSmith`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🗄️ Databases
 
-`SQL` `MySQL` `SQLite`
+`SQL` `MySQL`
 
-`Neo4j` `Cypher`
+`SQLite` `Neo4j`
+
+`Cypher`
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🚀 MLOps & Deployment
 
-`MLflow` `Model Registry`
+`MLflow`
 
-`Docker` `GitHub Actions`
+`Model Registry`
 
-`CI/CD` `Flask` `FastAPI`
+`Docker`
+
+`GitHub Actions`
+
+`CI/CD`
+
+`Flask` `FastAPI`
 
 `Streamlit`
 
@@ -120,3 +220,4 @@
 </table>
 
 ---
+
